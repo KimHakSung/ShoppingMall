@@ -66,7 +66,7 @@ b. 쇼핑몰 운영자를 위한 매출 현황 및 고객 응대 페이지 구�
 
 ### 2-3. ERD
 
-![_file/2.png](_file/2.png)
+<img src = "https://user-images.githubusercontent.com/92771951/143547426-2d296964-760c-484d-8ee9-89168e8cbf47.PNG" height = "400px" width = "45%">
 
 ### 2-4. 기술 스택
 
@@ -148,7 +148,7 @@ b. 쇼핑몰 운영자를 위한 매출 현황 및 고객 응대 페이지 구�
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/73347933/124242722-03a9d980-db58-11eb-9aa8-bb72e491bd7b.PNG" height = "400px" width = "45%">
 <img src = "https://user-images.githubusercontent.com/73347933/124243249-9cd8f000-db58-11eb-8e69-10130f0b003e.PNG" height = "400px" width = "45%">
-  <img src = "https://user-images.githubusercontent.com/92771951/143547426-2d296964-760c-484d-8ee9-89168e8cbf47.PNG" height = "400px" width = "45%">
+  
 
 </p>
 
