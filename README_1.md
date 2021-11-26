@@ -110,7 +110,7 @@
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/73347933/124242722-03a9d980-db58-11eb-9aa8-bb72e491bd7b.PNG" height = "400px" width = "45%">
 <img src = "https://user-images.githubusercontent.com/73347933/124243249-9cd8f000-db58-11eb-8e69-10130f0b003e.PNG" height = "400px" width = "45%">
-  <img src = "file:///C:/Users/haksu/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/test1.PNG" height = "400px" width = "45%">
+  <img src = "test1.PNG" height = "400px" width = "45%">
 </p>
 
 
