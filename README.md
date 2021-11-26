@@ -64,13 +64,10 @@ b. 쇼핑몰 운영자를 위한 매출 현황 및 고객 응대 페이지 구�
 
 ## 📁 구성 및 기술 스택
 
-### 2-3. ERD
+### ERD
 
 <img src = "https://user-images.githubusercontent.com/92771951/143547426-2d296964-760c-484d-8ee9-89168e8cbf47.PNG" height = "400px" width = "45%">
 
-### 2-4. 기술 스택
-
-![_file/3.png](_file/3.png)
 
 ## 📁 프로젝트 기능
 
